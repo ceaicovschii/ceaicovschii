@@ -1,16 +1,18 @@
-## Hi there 👋
+# Alexei Ceaicovschii
 
-<!--
-**ceaicovschii/ceaicovschii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend engineer based in Chisinau, Moldova.
+I build web apps with Angular and TypeScript at [DevelopmentAid](https://www.developmentaid.org).
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Angular · TypeScript · RxJS · HTML/SCSS · Git
+
+## Currently
+
+- 🛠️ Building and polishing UI at DevelopmentAid
+- 📚 Learning and trying small ideas in public
+
+## Find me
+
+- 🌍 Chisinau, Moldova
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-handle](https://www.linkedin.com/in/alexeiceaicovschii/))
